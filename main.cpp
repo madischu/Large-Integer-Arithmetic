@@ -4,12 +4,13 @@ using namespace std;
 
 int main()
 {
-    string input 1, input2;
+    string input1, input2;
+    
     // Prompt user for input
     cout << "Enter first large integer: ";
     cin >> input 1;
 
-    cout << "Enter seconf large integer: ";
+    cout << "Enter second large integer: ";
     cin >> input2;
     
     // Create objects using user input
