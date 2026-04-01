@@ -14,9 +14,9 @@ The class avoids built-in integer limits by performing digit-by-digit arithmetic
 
 Example:
 
-123456789987654321
+Enter first large integer: 123456789987654321
 
-987654321123456789
+Enter second large integer: 987654321123456789
 
 ### Outputs
 - Sum
